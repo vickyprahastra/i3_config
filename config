@@ -30,7 +30,7 @@ floating_modifier $mod
 bindsym $mod+Return exec terminal
 
 # kill focused window
-bindsym $mod+Ctrl+d kill
+bindsym Ctrl+Shift+d kill
 
 # start program launcher
 bindsym $mod+p exec --no-startup-id dmenu_recency
